@@ -11981,7 +11981,7 @@
   		// @option padding: Number = 0.1
   		// How much to extend the clip area around the map view (relative to its size)
   		// e.g. 0.1 would be 10% of map view in each direction
-  		padding: 0.9,
+  		padding: 0.5,
 
   		// @option tolerance: Number = 0
   		// How much to extend click tolerance round a path/object on the map
